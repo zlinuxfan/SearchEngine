@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="searchEngine:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/searchEngine_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="searchEngine" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="searchEngine/web/Web" />
+      <element id="javaee-facet-resources" facet="searchEngine/web/Web" />
+    </root>
+  </artifact>
+</component>
